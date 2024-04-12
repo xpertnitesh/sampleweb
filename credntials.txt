@@ -1,0 +1,3 @@
+Acces_Key=AKIA6GBMD4QQYCGEM5HB
+
+Secret_Access_Key=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
